@@ -1,5 +1,7 @@
 Descrição do Sistema de API REST de Biblioteca
-Este sistema de API REST é projetado para gerenciar uma biblioteca e é construído usando o framework Express e a plataforma Node.js. A API oferece funcionalidades essenciais para o gerenciamento de livros, autores e usuários da biblioteca. As principais características do sistema incluem:
+Este sistema de API REST é projetado para gerenciar uma biblioteca e é construído usando o framework Express e a plataforma Node.js. A API oferece funcionalidades essenciais para o gerenciamento de livros, autores e usuários da biblioteca. 
+
+As principais características do sistema incluem:
 
 Gerenciamento de Livros:
 
