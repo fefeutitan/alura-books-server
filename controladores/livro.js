@@ -1,6 +1,5 @@
 const { getTodosLivros, getLivroPorId, insereLivro, modificaLivro, deletaLivroPorId } = require("../servicos/livro")
 
-
 function getLivros(req, res) {
     try {
         const livros = getTodosLivros()
